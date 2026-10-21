@@ -1,0 +1,26 @@
+{
+  "display": "owned private Xvfb",
+  "window_class": "river-raid/RiverRaid",
+  "opacity": 4294967295,
+  "resize": [
+    [
+      800,
+      600
+    ],
+    [
+      1100,
+      650
+    ],
+    [
+      440,
+      700
+    ]
+  ],
+  "keyboard_quit_exit": 0,
+  "read_only_app": true,
+  "install_relative_fallback": true,
+  "save": "data/save/records.json",
+  "alsa_device": "null",
+  "stdout": "ticks=44 level=1 score=0 lives=3 fuel=64127 mode=Playing",
+  "stderr": ""
+}

@@ -4,6 +4,12 @@ The release targets [Basalt Game Standard version 1](https://github.com/HungLo20
 reviewed at revision `516209fc8489779cb322cc9b641a1487beff4ec3`, using catalog schema 2.
 The Basalt repository is not modified.
 
+The installed Basalt CLI successfully downloaded [release v0.1.0](https://github.com/HungLo2020/RiverRaid/releases/tag/v0.1.0)
+into a temporary library with spaces in its path. Manual backup and restore recovered the exact
+save bytes; reinstall preserved them, and clearing cache preserved saves. The installed release
+also completed a 12,000-frame headless run. All launcher configuration, data, and cache for this
+test used isolated temporary XDG directories. See [installation evidence](evidence/basalt-install.json).
+
 Build and package on Linux x64 with Rust and Python 3.11 or newer:
 
 ```sh

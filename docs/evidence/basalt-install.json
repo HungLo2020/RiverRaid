@@ -1,0 +1,18 @@
+{
+  "version": "0.1.0",
+  "release_url": "https://github.com/HungLo2020/RiverRaid/releases/tag/v0.1.0",
+  "isolation": "temporary XDG config/data/cache, path with spaces, no desktop display",
+  "installed_from_published_release": true,
+  "executable_permission": true,
+  "cover_matches_catalog": true,
+  "manual_backup": true,
+  "restore_recovered_exact_save_bytes": true,
+  "reinstall_preserved_exact_save_bytes": true,
+  "clear_cache_preserved_save": true,
+  "installed_headless_frames": 12000,
+  "installed_headless_summary": "ticks=456 level=1 score=340 lives=1 fuel=65407 mode=Playing",
+  "installed_binary_sha256": "2b4bfb9dcc06bd3258c80ac2e5a07b76117e632aded7f997fd867e49b2708b7d",
+  "release_workflow": "https://github.com/HungLo2020/RiverRaid/actions/runs/39666919450",
+  "basalt_repository_modified": false,
+  "published_archive_sha256": "4bf009ca08fd8c0ac90154e121af0488ad319d2538b40ab763f3fa944c2be30e"
+}
