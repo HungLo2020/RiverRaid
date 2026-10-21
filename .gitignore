@@ -1,0 +1,10 @@
+/target/
+/dist/
+/data/
+*.deb
+*.bin
+*.rom
+*.a26
+*.zip
+__pycache__/
+*.pyc

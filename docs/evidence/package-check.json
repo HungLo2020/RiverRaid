@@ -1,0 +1,12 @@
+{
+  "release": "0.1.0",
+  "relocated_path_with_spaces": true,
+  "app_read_only": true,
+  "unrelated_working_directory": "/",
+  "headless_frames": 12000,
+  "record_replay_identical": true,
+  "framebuffer_sha256": "c57fe4c44de57107d01250b60d9282533f12636cb51875992452abf88633aadf",
+  "summary": "ticks=456 level=1 score=340 lives=1 fuel=65407 mode=Playing",
+  "headless_created_no_install_data": true,
+  "host_alsa_library": "/usr/lib/x86_64-linux-gnu/libasound.so.2"
+}

@@ -1,0 +1,28 @@
+{
+  "format": "RiverRaid cartridge identity v1",
+  "carrier_sha256": "1e477ada84990302d8ab2c040a9361084f77de186f6aa74d0c48432ad8a003db",
+  "member": "River Raid (1982) (Activision) [!].a26",
+  "image_length": 16384,
+  "image_sha256": "cb4551c2c5f1f046e5fd509bb790cd85e082ee27905dbdbda0f8f56cc79dee40",
+  "identical_4096_byte_copies": 4,
+  "canonical_sha256": "4c6842b8af64fc75e599b773821b3e6bee8e5028f5d63414821b0d63f0b2dfe9",
+  "canonical_md5": "393948436d1f4cc3192410bb918f9724",
+  "canonical_length": 4096,
+  "mapped_at": "0xf000",
+  "reset_vector": "0xf000",
+  "tables": {
+    "lfsr_routine": {
+      "address": "0xfac6",
+      "bytes": "a5ea0a0a0a45ea0a26e926ea60"
+    },
+    "score_encoding": {
+      "address": "0xfe53",
+      "bytes": "0000000088303018a80040"
+    }
+  },
+  "limitations": [
+    "Static identity and table reads do not establish full runtime equivalence."
+  ],
+  "source_reassembly_matches_all_4096_bytes": true,
+  "source_reassembly_sha256": "4c6842b8af64fc75e599b773821b3e6bee8e5028f5d63414821b0d63f0b2dfe9"
+}

@@ -1,0 +1,189 @@
+[
+  {
+    "frame": 85,
+    "seed": 20521,
+    "pattern": 7,
+    "flags": 5,
+    "pf1": 7,
+    "pf2": 92,
+    "shape": 9,
+    "x": 18,
+    "direction": 1
+  },
+  {
+    "frame": 100,
+    "seed": 41043,
+    "pattern": 7,
+    "flags": 5,
+    "pf1": 35,
+    "pf2": 0,
+    "shape": 7,
+    "x": 71,
+    "direction": 1
+  },
+  {
+    "frame": 115,
+    "seed": 16551,
+    "pattern": 7,
+    "flags": 5,
+    "pf1": 35,
+    "pf2": 0,
+    "shape": 10,
+    "x": 91,
+    "direction": 1
+  },
+  {
+    "frame": 130,
+    "seed": 33102,
+    "pattern": 7,
+    "flags": 5,
+    "pf1": 35,
+    "pf2": 0,
+    "shape": 5,
+    "x": 66,
+    "direction": 1
+  },
+  {
+    "frame": 165,
+    "seed": 669,
+    "pattern": 7,
+    "flags": 5,
+    "pf1": 35,
+    "pf2": 0,
+    "shape": 10,
+    "x": 81,
+    "direction": 1
+  },
+  {
+    "frame": 205,
+    "seed": 1338,
+    "pattern": 7,
+    "flags": 5,
+    "pf1": 35,
+    "pf2": 0,
+    "shape": 10,
+    "x": 100,
+    "direction": 1
+  },
+  {
+    "frame": 235,
+    "seed": 2676,
+    "pattern": 7,
+    "flags": 5,
+    "pf1": 35,
+    "pf2": 0,
+    "shape": 9,
+    "x": 122,
+    "direction": 1
+  },
+  {
+    "frame": 270,
+    "seed": 5352,
+    "pattern": 7,
+    "flags": 5,
+    "pf1": 35,
+    "pf2": 0,
+    "shape": 9,
+    "x": 17,
+    "direction": -1
+  },
+  {
+    "frame": 300,
+    "seed": 10705,
+    "pattern": 7,
+    "flags": 5,
+    "pf1": 35,
+    "pf2": 0,
+    "shape": 9,
+    "x": 119,
+    "direction": -1
+  },
+  {
+    "frame": 335,
+    "seed": 21410,
+    "pattern": 7,
+    "flags": 5,
+    "pf1": 35,
+    "pf2": 0,
+    "shape": 10,
+    "x": 86,
+    "direction": 1
+  },
+  {
+    "frame": 365,
+    "seed": 42821,
+    "pattern": 7,
+    "flags": 5,
+    "pf1": 35,
+    "pf2": 0,
+    "shape": 5,
+    "x": 57,
+    "direction": 1
+  },
+  {
+    "frame": 395,
+    "seed": 20107,
+    "pattern": 7,
+    "flags": 5,
+    "pf1": 35,
+    "pf2": 0,
+    "shape": 10,
+    "x": 63,
+    "direction": 1
+  },
+  {
+    "frame": 430,
+    "seed": 40214,
+    "pattern": 7,
+    "flags": 5,
+    "pf1": 35,
+    "pf2": 0,
+    "shape": 5,
+    "x": 74,
+    "direction": 1
+  },
+  {
+    "frame": 460,
+    "seed": 14892,
+    "pattern": 7,
+    "flags": 5,
+    "pf1": 35,
+    "pf2": 0,
+    "shape": 10,
+    "x": 96,
+    "direction": 1
+  },
+  {
+    "frame": 495,
+    "seed": 29785,
+    "pattern": 7,
+    "flags": 5,
+    "pf1": 35,
+    "pf2": 0,
+    "shape": 9,
+    "x": 127,
+    "direction": 1
+  },
+  {
+    "frame": 525,
+    "seed": 59571,
+    "pattern": 7,
+    "flags": 5,
+    "pf1": 35,
+    "pf2": 0,
+    "shape": 7,
+    "x": 91,
+    "direction": -1
+  },
+  {
+    "frame": 555,
+    "seed": 53607,
+    "pattern": 7,
+    "flags": 5,
+    "pf1": 35,
+    "pf2": 0,
+    "shape": 6,
+    "x": 91,
+    "direction": 1
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "isolation": "temporary XDG config/data/cache; no desktop display",
+  "standards_revision": "516209fc8489779cb322cc9b641a1487beff4ec3",
+  "catalog": {
+    "exit": 0,
+    "stdout": "MattMC\tMattMC\tHungLo2020/MattMC\nMicroMages\tMicroMages\tHungLo2020/MicroMages\nJackal\tJackal\tHungLo2020/Jackal\nRiverRaid\tRiver Raid\tHungLo2020/RiverRaid\n",
+    "stderr": ""
+  },
+  "actions RiverRaid": {
+    "exit": 0,
+    "stdout": "update\tUpdate\tbuilt-in\nbackup\tBack up\tbuilt-in\nrestore\tRestore backup\tbuilt-in\nsync\tSync\tbuilt-in\nsync_up\tSync up\tbuilt-in\nsync_down\tSync down\tbuilt-in\nclear_cache\tClear cache\tbuilt-in\n",
+    "stderr": ""
+  }
+}
